@@ -37,13 +37,13 @@
         "company":"Alexion Pharmaceuticals",
         "title":"Software Development Intern ",
         "years":"June 2020 — August 2020",
-        "description":"I currently work on the Alexion Digital team, where I am creating an iOS application for one of their web tools using React Native, Typescript, and HTML/CSS. Upon completion of this project, the Alexion Digital team will distribute this application to 3000+ employees."
+        "description":"I currently work on the Alexion Digital team, where I am creating an iOS application for one of their web tools using React Native, Typescript, and HTML/CSS. Upon completion of this project, Alexion will distribute this application to 3000+ employees."
       },
       {
         "company":"San Diego Supercomputer Center",
         "title":"Software Developer Intern ",
         "years":"November 2019 — Present",
-        "description":"I currently work on the Research Data Services team, where I develop and maintain web tools used by other employees and various research clients. One project I worked on was adding reminders to a work-management app, which involved flagging task cards as red when they were overdue, motivating employees to be more productive in order to meet deadlines. I also created a Slackbot to find available meeting rooms based on a shared calendar, making it more convenient for employees to schedule meetings without causing time conflicts. In my work here, I frequently write documentation guides to ensure correct functionality and help future contributors."
+        "description":"I currently work on the Research Data Services team, where I develop and maintain web tools used by other employees and various research clients. One project I worked on was adding reminders to a work-management app, which involved flagging task cards as red when they were overdue; this motivated employees to be more productive in order to meet deadlines. I also created a Slackbot to find available meeting rooms based on a shared calendar, making it more convenient for employees to schedule meetings without causing time conflicts. In my work here, I frequently write documentation guides to ensure correct functionality and help future contributors."
       }
     ]
     
