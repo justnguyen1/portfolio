@@ -1,0 +1,67 @@
+{
+  "main": {
+    "name":"Justin Nguyen",
+    "description":"Hi! I'm excited to see you here. Learn more about me below.",
+    "image":"profilepic.jpg",
+    "bio":"I am a passionate and motivated student, working towards a degree in Computer Science at UC San Diego. I've always enjoyed building new things, which has led to my experience and interest in Software Engineering and Cybersecurity. In my spare time, I enjoy running, surfing, and watching movies. I am always seeking new opportunities to learn and grow. Please feel free to contact me if you'd like to work together, or if you have any questions about my experiences.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "justnguyen1@gmail.com",
+    "phone": "949-324-8103",
+    "resumedownload":"https://drive.google.com/file/d/1SIhsLq_WyGCQTtUS2DMp_ME0qm0hRIoq/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/justnguyen1/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/justnguyen1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/justnguyen1",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:justnguyen1@gmail.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "work":[
+      {
+        "company":"Alexion Pharmaceuticals",
+        "title":"Software Development Intern ",
+        "years":"June 2020 — August 2020",
+        "description":"I currently work on the Alexion Digital team, where I am creating an iOS application for one of their web tools using React Native, Typescript, and HTML/CSS. Upon completion of this project, the Alexion Digital team will distribute this application to 3000+ employees."
+      },
+      {
+        "company":"San Diego Supercomputer Center",
+        "title":"Software Developer Intern ",
+        "years":"November 2019 — Present",
+        "description":"I currently work on the Research Data Services team, where I develop and maintain web tools used by other employees and various research clients. One project I worked on was adding reminders to a work-management app, which involved flagging task cards as red when they were overdue, motivating employees to be more productive in order to meet deadlines. I also created a Slackbot to find available meeting rooms based on a shared calendar, making it more convenient for employees to schedule meetings without causing time conflicts. In my work here, I frequently write documentation guides to ensure correct functionality and help future contributors."
+      }
+    ]
+    
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Make Cents",
+        "category":"Providing people with the ability to donate their change to support black communities.",
+        "image":"make-cents.jpg",
+        "url":"https://devpost.com/software/makes-cents"
+      },
+      {
+        "title":"EarthCheck",
+        "category":"Users gain points when they complete tasks that positively impact the environment.",
+        "image":"earthcheck.jpg",
+        "url":"https://devpost.com/software/earthcheck-sitqce"
+      }
+    ]
+  }
+}
